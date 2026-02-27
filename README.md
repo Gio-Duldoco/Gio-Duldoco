@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm <Gio Duldoco>!👋
 
-<!--
-**Gio-Duldoco/Gio-Duldoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+ I am a BSIT student of Xavier University Ateneo De Cagayan, learning and taking interests on advanced technology and coding. My next step is to learned new skills, gain experience and dive into the digitalized world of technology.
+ 
+# 🚀 About me
+- 🔭 I’m currently a 2nd Year BS of Information Technology at Xavier University Ateneo De Cagayan.
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, Python and Graphic Designs.
+- 💪 I'm currently practice coding in Java, HTML, CSS and Python.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: <20240031677@my.xu.edu.ph>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like pizza, matcha and draw ✏️
+
+Thanks for viewing my personal identity :>>>
