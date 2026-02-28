@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: <20240031677@my.xu.edu.ph>
 - 😄 Pronouns: He/Him
-- ⚡Fun fact: I like pizza, matcha, and draw
+- ⚡Fun fact: I am curious on how technology works, I like to create my own design and projects, and I want to build my own projects.
 
 
 
