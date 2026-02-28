@@ -1,4 +1,4 @@
-## Hi, I'm <Gio Duldoco>!👋
+## Hi, I'm Gio Duldoco!👋
 
  I am a BSIT student of Xavier University Ateneo De Cagayan, learning and taking interests on advanced technology and coding. My next step is to learned new skills, gain experience and dive into the digitalized world of technology.
  
